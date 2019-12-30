@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SSM02.iml" filepath="$PROJECT_DIR$/SSM02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM02/SSM02dao/SSM02dao.iml" filepath="$PROJECT_DIR$/../SSM02/SSM02dao/SSM02dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM02/SSM02entity/SSM02entity.iml" filepath="$PROJECT_DIR$/../SSM02/SSM02entity/SSM02entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM02/SSM02service/SSM02service.iml" filepath="$PROJECT_DIR$/../SSM02/SSM02service/SSM02service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM02/SSM02web/SSM02web.iml" filepath="$PROJECT_DIR$/../SSM02/SSM02web/SSM02web.iml" />
+    </modules>
+  </component>
+</project>

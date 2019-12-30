@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mapper.UsersMapper">
+			<select id="findAll"  resultType="entity.Users">
+					select * from users
+			</select>
+			<insert id="add" parameterType="entity.Users">
+					insert into users values(null,#{username},#{password})
+			</insert>
+			<delete id="delete" parameterType="int">
+					delete from users where id=#{id}
+			</delete>
+			<update id="gai" parameterType="entity.Users">
+					update users set username=#{username},password=#{password} where id=#{id}
+			</update>
+			<select id="chaid"  resultType="entity.Users" parameterType="int">
+					select * from users where id=#{id}
+			</select>
+</mapper>
