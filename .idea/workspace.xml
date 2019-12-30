@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba6bac7-161e-4bf0-82c1-c26958c82a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/artifacts/SSM02web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/artifacts/SSM02web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_test_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02dao/SSM02dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02dao/src/main/java/mapper/UsersMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02dao/src/main/java/mapper/UsersMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02entity/SSM02entity.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02entity/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02entity/src/main/java/entity/Users.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02service/SSM02service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02service/src/main/java/service/UsersService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02service/src/main/java/service/impl/UsersServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/SSM02web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/java/controller/UsersController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/resources/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/webapp/add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/SSM02web/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/apt/format.apt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/apt/index.apt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fml/faq.fml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/apt/format.apt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/apt/index.apt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/fml/faq.fml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/markdown/markdown-velocity.md.vm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/markdown/markdown.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/fr/xdoc/xdoc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/markdown/markdown-velocity.md.vm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/markdown/markdown.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/site.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/site_fr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SSM02/src/site/xdoc/xdoc.xml" />
-    </list>
+    <list default="true" id="eba6bac7-161e-4bf0-82c1-c26958c82a97" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../SSM02/out/" />
     <ignored path="$PROJECT_DIR$/../SSM02/target/" />
     <ignored path="$PROJECT_DIR$/../SSM02/SSM02entity/target/" />
@@ -451,12 +381,20 @@
       <workItem from="1577665517120" duration="1734000" />
       <workItem from="1577669246340" duration="3000" />
       <workItem from="1577669287002" duration="78000" />
-      <workItem from="1577677791571" duration="29000" />
+      <workItem from="1577677791571" duration="55000" />
     </task>
+    <task id="LOCAL-00001" summary="PPP">
+      <created>1577677839877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577677839877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11408000" />
+    <option name="totallyTimeSpent" value="11434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -498,6 +436,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PPP" />
+    <option name="LAST_COMMIT_MESSAGE" value="PPP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
